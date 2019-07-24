@@ -1,3 +1,5 @@
+# I minimized all implementations and used only implicit returns to test minimal efficient code. I realize that more descriptive code may be used in practical application outside of learning environment to better communicate with other coders and reviewers.
+
 def create_an_empty_array
   []
 end
