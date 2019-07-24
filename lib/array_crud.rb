@@ -1,10 +1,10 @@
 def create_an_empty_array
-  create_an_empty_array = []
-  return create_an_empty_array
+  empty_array = []
+  return empty_array
 end
 
 def create_an_array
-  create_an_array = []
+  base_array = ["Apple", "Banana", "Cherry", ]
 end
 
 def add_element_to_end_of_array(array, element)
